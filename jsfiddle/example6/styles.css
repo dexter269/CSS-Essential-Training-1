@@ -1,0 +1,15 @@
+/* Type selector */
+h1 {
+  color: red;
+}
+
+/* Class selector */
+.example {
+  color: blue;
+}
+
+/* ID selector */
+#example {
+  color: purple;
+}
+
