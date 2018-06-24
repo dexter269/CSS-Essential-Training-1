@@ -1,0 +1,13 @@
+div, p {
+    background: #e74c3c;
+    height: 40px;
+    width: 150px;
+    display: none;
+}
+
+span, a {
+    background: #3498db;
+    height: 40px;
+    width: 150px;
+    display: inline-block;
+}
